@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org"
+baseurl = "https://simplizam.github.io/example-hugo-site/"
 themesDir = "themes"
 publishDir = "docs"
 languageCode = "en-us"
