@@ -1,0 +1,6 @@
+[submodule "hugo-cactus-theme"]
+	path = hugo-cactus-theme
+	url = https://github.com/digitalcraftsman/hugo-cactus-theme.git
+[submodule "themes/cactus"]
+	path = themes/cactus
+	url = https://github.com/digitalcraftsman/hugo-cactus-theme.git
